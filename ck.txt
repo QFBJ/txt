@@ -1,0 +1,25 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "🏮贵宾①🏮",
+           "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master"
+      },
+      {
+           "sourceName": "🏮贵宾②🏮",
+           "sourceUrl": "https://pan.css.lc/api/v3/fi/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"
+      },
+      {
+           "sourceName": "🏮贵宾③🏮",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"
+      },
+      {
+           "sourceName": "🏮贵宾④🏮",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/71443/%E7%A6%8F%E5%88%A9%E5%8D%95%E4%BB%93.txt?sign=dcjX-jM4UZ34KMCiXtxf2bjnUB2kq85f0N9SI5kjzCg%3D%3A0"
+      },
+      {
+           "sourceName": "🏮贵宾⑤🏮",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file/get8/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
+      }
+  ]
+}
